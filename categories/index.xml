@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on A Hugo Site</title><link>https://marxwu.github.io/myblogpublic/categories/</link><description>Recent content in Categories on A Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>This is a customized copyright.</copyright><lastBuildDate>Sun, 04 Dec 2022 12:26:16 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>股票</title><link>https://marxwu.github.io/myblogpublic/categories/%E8%82%A1%E7%A5%A8/</link><pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/categories/%E8%82%A1%E7%A5%A8/</guid><description/></item><item><title>Chinese</title><link>https://marxwu.github.io/myblogpublic/categories/chinese/</link><pubDate>Thu, 14 Nov 2019 11:25:05 -0400</pubDate><guid>https://marxwu.github.io/myblogpublic/categories/chinese/</guid><description/></item><item><title>Todo</title><link>https://marxwu.github.io/myblogpublic/categories/todo/</link><pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate><guid>https://marxwu.github.io/myblogpublic/categories/todo/</guid><description/></item><item><title>Story</title><link>https://marxwu.github.io/myblogpublic/categories/story/</link><pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate><guid>https://marxwu.github.io/myblogpublic/categories/story/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on marxwu&#39;s Blog</title>
+    <link>https://marxwu.github.io/myblogpublic/categories/</link>
+    <description>Recent content in Categories on marxwu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Sun, 04 Dec 2022 12:26:16 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>股票</title>
+      <link>https://marxwu.github.io/myblogpublic/categories/%E8%82%A1%E7%A5%A8/</link>
+      <pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/categories/%E8%82%A1%E7%A5%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://marxwu.github.io/myblogpublic/categories/chinese/</link>
+      <pubDate>Thu, 14 Nov 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/categories/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todo</title>
+      <link>https://marxwu.github.io/myblogpublic/categories/todo/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/categories/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://marxwu.github.io/myblogpublic/categories/story/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/categories/story/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
