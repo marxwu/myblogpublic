@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>宇宙的空虚</title>
-    <link>http://example.org/</link>
+    <link>https://marxwu.githu.io/</link>
     <description>Recent content on 宇宙的空虚</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright 2022 Marx Wu</copyright>
     <lastBuildDate>Sun, 04 Dec 2022 12:26:16 +0800</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://marxwu.githu.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>我的交易系统</title>
-        <link>http://example.org/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link>
+        <link>https://marxwu.githu.io/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link>
         <pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate>
         
-        <guid>http://example.org/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</guid>
-        <description>宇宙的空虚 http://example.org/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ -&lt;p&gt;我的交易系统&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://example.org/images/%E5%B0%8F%E5%91%A8%E6%9C%9F%E6%92%91%E5%8E%8B%E4%BA%92%E6%8D%A2.png&#34; alt=&#34;minor cycle&#34; title=&#34;小周期撑压互换&#34;&gt;&lt;/p&gt;
-- http://example.org/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ - Copyright 2022 Marx Wu</description>
+        <guid>https://marxwu.githu.io/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</guid>
+        <description>宇宙的空虚 https://marxwu.githu.io/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ -&lt;p&gt;我的交易系统&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://marxwu.githu.io/images/%E5%B0%8F%E5%91%A8%E6%9C%9F%E6%92%91%E5%8E%8B%E4%BA%92%E6%8D%A2.png&#34; alt=&#34;minor cycle&#34; title=&#34;小周期撑压互换&#34;&gt;&lt;/p&gt;
+- https://marxwu.githu.io/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ - Copyright 2022 Marx Wu</description>
         </item>
     
     
