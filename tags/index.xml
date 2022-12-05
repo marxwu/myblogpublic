@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 宇宙的空虚</title><link>https://marxwu.github.io/myblogpublic/tags/</link><description>Recent content in Tags on 宇宙的空虚</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>2022 marx wu</copyright><lastBuildDate>Sun, 04 Dec 2022 12:26:16 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>交易</title><link>https://marxwu.github.io/myblogpublic/tags/%E4%BA%A4%E6%98%93/</link><pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/tags/%E4%BA%A4%E6%98%93/</guid><description/></item><item><title>股票</title><link>https://marxwu.github.io/myblogpublic/tags/%E8%82%A1%E7%A5%A8/</link><pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/tags/%E8%82%A1%E7%A5%A8/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 宇宙的空虚</title>
+    <link>https://marxwu.github.io/myblogpublic/tags/</link>
+    <description>Recent content in Tags on 宇宙的空虚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>2022 marx wu</copyright>
+    <lastBuildDate>Sun, 04 Dec 2022 12:26:16 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>交易</title>
+      <link>https://marxwu.github.io/myblogpublic/tags/%E4%BA%A4%E6%98%93/</link>
+      <pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/tags/%E4%BA%A4%E6%98%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>股票</title>
+      <link>https://marxwu.github.io/myblogpublic/tags/%E8%82%A1%E7%A5%A8/</link>
+      <pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/tags/%E8%82%A1%E7%A5%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
