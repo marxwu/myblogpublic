@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>markdown on 宇宙的空虚</title><link>https://marxwu.github.io/myblogpublic/tags/markdown/</link><description>Recent content in markdown on 宇宙的空虚</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>2022 marx wu</copyright><lastBuildDate>Mon, 05 Dec 2022 23:34:11 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo创建博客</title><link>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link><pubDate>Mon, 05 Dec 2022 23:34:11 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid><description>hugo create blog git and github deploy blog on github references</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on 宇宙的空虚</title>
+    <link>https://marxwu.github.io/myblogpublic/tags/markdown/</link>
+    <description>Recent content in markdown on 宇宙的空虚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>2022 marx wu</copyright>
+    <lastBuildDate>Mon, 05 Dec 2022 23:34:11 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo创建博客</title>
+      <link>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 05 Dec 2022 23:34:11 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>mac下实践
+hugo create blog  安装hugo  myblogprj % brew install hugo myblogprj % hugo version myblogprj % brew reinstall hugo 建立博客根目录myblog，添加theme，运行起来  myblogprj % hugo new site myblog myblogprj % cd myblog myblog % mkdir themes myblog % git clone https://github.com/AmazingRise/hugo-theme-diary.git --depth=1 themes/diary myblog % cp -r themes/diary/exampleSite/content ./ myblog % cp themes/diary/exampleSite/config.toml ./ myblog % hugo server  访问http://localhost:1313/
+建立第一个博客，然后用vscode编辑内容  myblog % hugo new posts/数学高一知识点.md  用vscode编辑：</description>
+    </item>
+    
+  </channel>
+</rss>

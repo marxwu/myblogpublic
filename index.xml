@@ -1,71 +1,237 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>宇宙的空虚</title><link>https://marxwu.github.io/myblogpublic/</link><description>Recent content on 宇宙的空虚</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>2022 marx wu</copyright><lastBuildDate>Tue, 06 Dec 2022 21:47:46 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/index.xml" rel="self" type="application/rss+xml"/><item><title>数学高一知识点</title><link>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</link><pubDate>Tue, 06 Dec 2022 21:47:46 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</guid><description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/ -&lt;h1 id="集合">集合&lt;/h1>
-&lt;h1 id="不等式">不等式&lt;/h1>
-&lt;h1 id="指数和对数">指数和对数&lt;/h1>
-&lt;h1 id="函数">函数&lt;/h1>
-&lt;h2 id="一次函数">一次函数&lt;/h2>
-&lt;h2 id="二次函数">二次函数&lt;/h2>
-&lt;h2 id="幂函数">幂函数&lt;/h2>
-&lt;h2 id="指数函数">指数函数&lt;/h2>
-- https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/ - 2022 marx wu</description></item><item><title>Hugo创建博客</title><link>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link><pubDate>Mon, 05 Dec 2022 23:34:11 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid><description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/ -&lt;h1 id="hugo-create-blog">hugo create blog&lt;/h1>
-&lt;h1 id="git-and-github">git and github&lt;/h1>
-&lt;h1 id="deploy-blog-on-github">deploy blog on github&lt;/h1>
-&lt;h1 id="references">references&lt;/h1>
-- https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/ - 2022 marx wu</description></item><item><title>我的交易系统</title><link>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link><pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</guid><description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ -&lt;h1 id="交易系统">交易系统&lt;/h1>
-&lt;p>  主要做多，交易系统包括心法和操作两大部分:&lt;/p>
-&lt;ul>
-&lt;li>心法 ：有限标的，耐心等待、决心杀入、狠心止损、平常心抱持。&lt;/li>
-&lt;li>操作 ：心态、心情好的情况下
-&lt;ul>
-&lt;li>入场：大周期关键边缘，等待小周期破底翻或撑压互换。&lt;/li>
-&lt;li>出场：1）守纪律；2）打破有意义的边缘，即刻规避风险。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>  交易系统的核心是支撑压力位构成的水平线，连续的高点或低点构成的斜切线（也叫趋势线）；通过这样的线勾勒出可交易的价格区间和K线形态，识别大趋势（底部反转还是多头格局）；等价格到了区间轨道线附近，有止跌迹象，即可密切跟踪观察，制定交易计划。通常我们需要把周期拉到6个月到一年，来确定大趋势，3个月左右来观察短期惯性。
-&lt;br>
-  破底翻/假突破、撑压互换、翻亚当、惯性改变是交易过程极为有用的四个概念。突破水平线/斜切线，我们认为惯性可能有所改变；突破位形成了中长K线，我们就可以翻亚当，看看价格可能会走到哪里（亚当满足区）；等到价格在下杀的亚当满足区，我们观察是否有水平支撑位，在这个位置价格轨迹是否形成了破底翻或撑压互换（各周期都可观察）；此时你就可以想一下：这次我愿意花多少钱买个机会？入场即设置好止损；钱花掉了，机会没来，断然离去。按幽灵的说法，即刻清除不正确的仓位，只持有正确的仓位。&lt;/p>
-&lt;h2 id="一心法">一、心法&lt;/h2>
-&lt;h3 id="1-耐心等待">1. 耐心等待&lt;/h3>
-&lt;p>  为什么需要耐心等待？底部吸筹需要时间，也有可能继续下行，你确定你要潜伏 ？！；顶部出货也需要时间，你不可能把自己放在高位风险之中，所以高位只能等待；中继盘整通常不好介入，会把你整得死去活来。一只标的，回头看，一年当中2次左右好的机会。&lt;br>
-  必须是有限标的，通常不超过3只，否则，容易错过短暂有限的最佳入场机会。如果是长期看好趋势，那就是另外一回事了。&lt;br>
-  短线容易死去活来，长线可能容易天荒地老，波段或许是最优选择。也许每个“波谷”你都可以试试，但切记优先设置止损，要有韧性，从头再来。要等到好的波谷也不容易，你需要对波浪理论有所了解。&lt;/p>
-&lt;p>  什么是好的波谷？即我们要等到什么时候。通常是大周期有意义的关键水平位，破了就可以翻亚当，破位又拉回有机会形成破底翻。&lt;/p>
-&lt;ul>
-&lt;li>三波下杀之后，俗称三推&lt;/li>
-&lt;li>多头回档，通常2次调整，俗称ABC修正&lt;/li>
-&lt;li>通道测试起涨点&lt;/li>
-&lt;li>形成双底或多重底&lt;/li>
-&lt;li>日线偏离 MA20 20%左右&lt;/li>
-&lt;li>多头回踩 MA20/60 有支撑&lt;/li>
-&lt;li>急速运动导致能量耗尽；急速、通道、急速&lt;/li>
-&lt;/ul>
-&lt;h3 id="2-决心杀入">2. 决心杀入&lt;/h3>
-&lt;p>  &lt;/p>
-&lt;h3 id="3-狠心止损">3. 狠心止损&lt;/h3>
-&lt;p>  &lt;/p>
-&lt;h3 id="4-平常心抱持">4. 平常心抱持&lt;/h3>
-&lt;p>  &lt;/p>
-&lt;h2 id="二操作">二、操作&lt;/h2>
-&lt;h3 id="1-破位">1. 破位&lt;/h3>
-&lt;h3 id="2-守纪律">2. 守纪律&lt;/h3>
-&lt;p>&lt;img src="../../images/%E5%B0%8F%E5%91%A8%E6%9C%9F%E6%92%91%E5%8E%8B%E4%BA%92%E6%8D%A2.png" alt="minor cycle" title="小周期撑压互换">&lt;/p>
-&lt;h1 id="打赏">打赏&lt;/h1>
-&lt;!--
-![wechat QRCode](../../images/WechatFee.png "微信收款码")
-![Alipay QRCode](../../images/AliPayFee.png "支付宝收款码")
--->
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">微信&lt;/th>
-&lt;th style="text-align:center">支付宝&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&lt;img src="../../images/WechatFee.png" alt="">&lt;/td>
-&lt;td style="text-align:center">&lt;img src="../../images/AliPayFee.png" alt="">&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-- https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ - 2022 marx wu</description></item></channel></rss>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宇宙的空虚</title>
+    <link>https://marxwu.github.io/myblogpublic/</link>
+    <description>Recent content on 宇宙的空虚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>2022 marx wu</copyright>
+    <lastBuildDate>Tue, 06 Dec 2022 21:47:46 +0800</lastBuildDate>
+    
+        <atom:link href="https://marxwu.github.io/myblogpublic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>数学高一知识点</title>
+        <link>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+        <pubDate>Tue, 06 Dec 2022 21:47:46 +0800</pubDate>
+        
+        <guid>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+        <description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/ -&lt;h1 id=&#34;集合&#34;&gt;集合&lt;/h1&gt;
+&lt;h1 id=&#34;不等式&#34;&gt;不等式&lt;/h1&gt;
+&lt;h1 id=&#34;指数和对数&#34;&gt;指数和对数&lt;/h1&gt;
+&lt;h1 id=&#34;函数&#34;&gt;函数&lt;/h1&gt;
+&lt;h2 id=&#34;一次函数&#34;&gt;一次函数&lt;/h2&gt;
+&lt;h2 id=&#34;二次函数&#34;&gt;二次函数&lt;/h2&gt;
+&lt;h2 id=&#34;幂函数&#34;&gt;幂函数&lt;/h2&gt;
+&lt;h2 id=&#34;指数函数&#34;&gt;指数函数&lt;/h2&gt;
+- https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/ - 2022 marx wu</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Hugo创建博客</title>
+        <link>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Mon, 05 Dec 2022 23:34:11 +0800</pubDate>
+        
+        <guid>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+        <description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/ -&lt;p&gt;mac下实践&lt;/p&gt;
+&lt;h1 id=&#34;hugo-create-blog&#34;&gt;hugo create blog&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;安装hugo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class=&#34;language-hugo&#34; data-lang=&#34;hugo&#34;&gt;myblogprj % brew install hugo
+myblogprj % hugo version
+myblogprj % brew reinstall hugo
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;建立博客根目录myblog，添加theme，运行起来&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;myblogprj % hugo new site myblog
+
+myblogprj % cd myblog
+
+myblog % mkdir themes
+myblog % git clone https://github.com/AmazingRise/hugo-theme-diary.git --depth=1 themes/diary
+myblog % cp -r themes/diary/exampleSite/content ./
+myblog % cp themes/diary/exampleSite/config.toml ./
+
+myblog % hugo server
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;  访问http://localhost:1313/&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;建立第一个博客，然后用vscode编辑内容&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;myblog % hugo new posts/数学高一知识点.md
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;  用vscode编辑：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: &amp;quot;数学高一知识点&amp;quot;
+date: 2022-12-06T21:47:46+08:00
+draft: false
+
+featured_image: &amp;quot;images/emc2.png&amp;quot;
+tags: [&amp;quot;数学&amp;quot;, &amp;quot;高一&amp;quot;]
+categories: &amp;quot;高中数学&amp;quot;
+---
+
+# 集合
+# 不等式
+# 指数和对数
+# 函数
+## 幂函数
+## 指数函数
+
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;git-and-github&#34;&gt;git and github&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;设置github可以用ssh方式连接&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;git安装比较大众化，安装完之后设置你的github用户名和email
+$ git config --global user.name &amp;quot;Your Name&amp;quot;
+$ git config --global user.email &amp;quot;email@example.com&amp;quot;
+$ git config --list
+
+使用默认值生成密钥对：
+% ssh-keygen -t rsa -C &amp;quot;yourmail@qq.com&amp;quot;
+MacBook-Pro ~ % cd .ssh
+MacBook-Pro .ssh % ls
+id_boot2docker		id_boot2docker.pub	id_rsa			id_rsa.pub		known_hosts
+
+公钥id_rsa.pub的文本内容copy到github
+Settings -&amp;gt; SSH and GPG keys 设置
+
+测试github是否能连上：
+myblog % ssh -T -p 443 git@ssh.github.com
+Hi soyawu! You&#39;ve successfully authenticated, but GitHub does not provide shell access.
+
+
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;如果突然出现这个问题：
+myblog % git push -u origin master
+ssh: connect to host github.com port 22: Operation timed out
+fatal: Could not read from remote repository.
+
+% vim ~/.ssh/config
+Host github.com
+ Hostname ssh.github.com
+ Port 443
+
+ssh -T git@github.com
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;命令行终端设置代理：
+export http_proxy=http://192.168.1.101:8888
+export https_proxy=http://192.168.1.101:8888
+
+git设置代理：
+git config --global http.proxy http://192.168.1.101:8888
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;deploy-blog-on-github&#34;&gt;deploy blog on github&lt;/h1&gt;
+&lt;p&gt;这个仓库用于blog的源代码：&lt;br&gt;
+&lt;a href=&#34;https://github.com/yourname/myblog.git&#34;&gt;https://github.com/yourname/myblog.git&lt;/a&gt;
+&lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:yourname/myblog.git&lt;/p&gt;
+&lt;p&gt;这个仓库用来发布blog，即hugo生成的public目录的站点内容：&lt;br&gt;
+&lt;a href=&#34;https://github.com/yourname/myblogpublic.git&#34;&gt;https://github.com/yourname/myblogpublic.git&lt;/a&gt;
+&lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:yourname/myblogpublic.git&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;myblog % git remote -v
+myblog % git remote add origin https://github.com/marxwu/myblog.git
+
+myblog % git add . 
+myblog % git commit -m &amp;quot;committing my hugo blog src&amp;quot; 
+myblog % git push -u origin master
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;submodule貌似不好用：
+git submodule add -b master &amp;lt;repo.git&amp;gt; &amp;lt;folder&amp;gt;
+myblog % git submodule add -b master git@github.com:marxwu/myblogpublic.git public
+以上添加子模块public都不成功。只能先用.gitignore忽略。
+
+用户hugo命令生成public文件：
+myblog % hugo
+public % git init
+public % git remote add origin git@github.com:marxwu/myblogpublic.git
+public % git status
+public % git add .
+public % git commit -m &#39;pubic first version&#39;
+
+myblog % git push -u origin master
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;最后在myblogpublic仓的Settings-&amp;gt;Pages中
+设置https://yourname.github.io/myblogpublic/仓，发布站点。&lt;/p&gt;
+&lt;p&gt;注意config.toml中编辑：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;baseURL = &amp;quot;https://yourname.github.io/myblogpublic&amp;quot;
+DefaultContentLanguage = &amp;quot;zh&amp;quot; # Theme&#39;s display language, supports: en, fr, zh, zh-hant
+languageCode = &amp;quot;zh-CN&amp;quot;
+title = &amp;quot;千山暮雪&amp;quot;
+copyright = &amp;quot;202X yourname&amp;quot;
+theme = &amp;quot;diary&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;你就可以访问博客了：https://yourname.github.io/myblogpublic&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;references&lt;/h1&gt;
+- https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/ - 2022 marx wu</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>我的交易系统</title>
+        <link>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link>
+        <pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate>
+        
+        <guid>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</guid>
+        <description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ -&lt;h1 id=&#34;交易系统&#34;&gt;交易系统&lt;/h1&gt;
+&lt;p&gt;  主要做多，交易系统包括心法和操作两大部分:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;心法 ：有限标的，耐心等待、决心杀入、狠心止损、平常心抱持。&lt;/li&gt;
+&lt;li&gt;操作 ：心态、心情好的情况下
+&lt;ul&gt;
+&lt;li&gt;入场：大周期关键边缘，等待小周期破底翻或撑压互换。&lt;/li&gt;
+&lt;li&gt;出场：1）守纪律；2）打破有意义的边缘，即刻规避风险。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;  交易系统的核心是支撑压力位构成的水平线，连续的高点或低点构成的斜切线（也叫趋势线）；通过这样的线勾勒出可交易的价格区间和K线形态，识别大趋势（底部反转还是多头格局）；等价格到了区间轨道线附近，有止跌迹象，即可密切跟踪观察，制定交易计划。通常我们需要把周期拉到6个月到一年，来确定大趋势，3个月左右来观察短期惯性。
+&lt;br&gt;
+  破底翻/假突破、撑压互换、翻亚当、惯性改变是交易过程极为有用的四个概念。突破水平线/斜切线，我们认为惯性可能有所改变；突破位形成了中长K线，我们就可以翻亚当，看看价格可能会走到哪里（亚当满足区）；等到价格在下杀的亚当满足区，我们观察是否有水平支撑位，在这个位置价格轨迹是否形成了破底翻或撑压互换（各周期都可观察）；此时你就可以想一下：这次我愿意花多少钱买个机会？入场即设置好止损；钱花掉了，机会没来，断然离去。按幽灵的说法，即刻清除不正确的仓位，只持有正确的仓位。&lt;/p&gt;
+&lt;h2 id=&#34;一心法&#34;&gt;一、心法&lt;/h2&gt;
+&lt;h3 id=&#34;1-耐心等待&#34;&gt;1. 耐心等待&lt;/h3&gt;
+&lt;p&gt;  为什么需要耐心等待？底部吸筹需要时间，也有可能继续下行，你确定你要潜伏 ？！；顶部出货也需要时间，你不可能把自己放在高位风险之中，所以高位只能等待；中继盘整通常不好介入，会把你整得死去活来。一只标的，回头看，一年当中2次左右好的机会。&lt;br&gt;
+  必须是有限标的，通常不超过3只，否则，容易错过短暂有限的最佳入场机会。如果是长期看好趋势，那就是另外一回事了。&lt;br&gt;
+  短线容易死去活来，长线可能容易天荒地老，波段或许是最优选择。也许每个“波谷”你都可以试试，但切记优先设置止损，要有韧性，从头再来。要等到好的波谷也不容易，你需要对波浪理论有所了解。&lt;/p&gt;
+&lt;p&gt;  什么是好的波谷？即我们要等到什么时候。通常是大周期有意义的关键水平位，破了就可以翻亚当，破位又拉回有机会形成破底翻。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三波下杀之后，俗称三推&lt;/li&gt;
+&lt;li&gt;多头回档，通常2次调整，俗称ABC修正&lt;/li&gt;
+&lt;li&gt;通道测试起涨点&lt;/li&gt;
+&lt;li&gt;形成双底或多重底&lt;/li&gt;
+&lt;li&gt;日线偏离 MA20 20%左右&lt;/li&gt;
+&lt;li&gt;多头回踩 MA20/60 有支撑&lt;/li&gt;
+&lt;li&gt;急速运动导致能量耗尽；急速、通道、急速&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-决心杀入&#34;&gt;2. 决心杀入&lt;/h3&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;h3 id=&#34;3-狠心止损&#34;&gt;3. 狠心止损&lt;/h3&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;h3 id=&#34;4-平常心抱持&#34;&gt;4. 平常心抱持&lt;/h3&gt;
+&lt;p&gt;  &lt;/p&gt;
+&lt;h2 id=&#34;二操作&#34;&gt;二、操作&lt;/h2&gt;
+&lt;h3 id=&#34;1-破位&#34;&gt;1. 破位&lt;/h3&gt;
+&lt;h3 id=&#34;2-守纪律&#34;&gt;2. 守纪律&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../../images/%E5%B0%8F%E5%91%A8%E6%9C%9F%E6%92%91%E5%8E%8B%E4%BA%92%E6%8D%A2.png&#34; alt=&#34;minor cycle&#34; title=&#34;小周期撑压互换&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;打赏&#34;&gt;打赏&lt;/h1&gt;
+&lt;!-- 
+![wechat QRCode](../../images/WechatFee.png &#34;微信收款码&#34;)
+![Alipay QRCode](../../images/AliPayFee.png &#34;支付宝收款码&#34;)
+--&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;微信&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;支付宝&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;../../images/WechatFee.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;../../images/AliPayFee.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+- https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ - 2022 marx wu</description>
+        </item>
+    
+    
+  </channel>
+</rss> 

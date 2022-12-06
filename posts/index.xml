@@ -1,7 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 宇宙的空虚</title><link>https://marxwu.github.io/myblogpublic/posts/</link><description>Recent content in Posts on 宇宙的空虚</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>2022 marx wu</copyright><lastBuildDate>Tue, 06 Dec 2022 21:47:46 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>数学高一知识点</title><link>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</link><pubDate>Tue, 06 Dec 2022 21:47:46 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</guid><description>集合 不等式 指数和对数 函数 一次函数 二次函数 幂函数 指数函数</description></item><item><title>Hugo创建博客</title><link>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link><pubDate>Mon, 05 Dec 2022 23:34:11 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid><description>hugo create blog git and github deploy blog on github references</description></item><item><title>我的交易系统</title><link>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link><pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate><guid>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</guid><description>交易系统  主要做多，交易系统包括心法和操作两大部分:
-心法 ：有限标的，耐心等待、决心杀入、狠心止损、平常心抱持。 操作 ：心态、心情好的情况下 入场：大周期关键边缘，等待小周期破底翻或撑压互换。 出场：1）守纪律；2）打破有意义的边缘，即刻规避风险。  交易系统的核心是支撑压力位构成的水平线，连续的高点或低点构成的斜切线（也叫趋势线）；通过这样的线勾勒出可交易的价格区间和K线形态，识别大趋势（底部反转还是多头格局）；等价格到了区间轨道线附近，有止跌迹象，即可密切跟踪观察，制定交易计划。通常我们需要把周期拉到6个月到一年，来确定大趋势，3个月左右来观察短期惯性。 破底翻/假突破、撑压互换、翻亚当、惯性改变是交易过程极为有用的四个概念。突破水平线/斜切线，我们认为惯性可能有所改变；突破位形成了中长K线，我们就可以翻亚当，看看价格可能会走到哪里（亚当满足区）；等到价格在下杀的亚当满足区，我们观察是否有水平支撑位，在这个位置价格轨迹是否形成了破底翻或撑压互换（各周期都可观察）；此时你就可以想一下：这次我愿意花多少钱买个机会？入场即设置好止损；钱花掉了，机会没来，断然离去。按幽灵的说法，即刻清除不正确的仓位，只持有正确的仓位。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 宇宙的空虚</title>
+    <link>https://marxwu.github.io/myblogpublic/posts/</link>
+    <description>Recent content in Posts on 宇宙的空虚</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>2022 marx wu</copyright>
+    <lastBuildDate>Tue, 06 Dec 2022 21:47:46 +0800</lastBuildDate><atom:link href="https://marxwu.github.io/myblogpublic/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数学高一知识点</title>
+      <link>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <pubDate>Tue, 06 Dec 2022 21:47:46 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <description>集合 不等式 指数和对数 函数 一次函数 二次函数 幂函数 指数函数 </description>
+    </item>
+    
+    <item>
+      <title>Hugo创建博客</title>
+      <link>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 05 Dec 2022 23:34:11 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>mac下实践
+hugo create blog  安装hugo  myblogprj % brew install hugo myblogprj % hugo version myblogprj % brew reinstall hugo 建立博客根目录myblog，添加theme，运行起来  myblogprj % hugo new site myblog myblogprj % cd myblog myblog % mkdir themes myblog % git clone https://github.com/AmazingRise/hugo-theme-diary.git --depth=1 themes/diary myblog % cp -r themes/diary/exampleSite/content ./ myblog % cp themes/diary/exampleSite/config.toml ./ myblog % hugo server  访问http://localhost:1313/
+建立第一个博客，然后用vscode编辑内容  myblog % hugo new posts/数学高一知识点.md  用vscode编辑：</description>
+    </item>
+    
+    <item>
+      <title>我的交易系统</title>
+      <link>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sun, 04 Dec 2022 12:26:16 +0800</pubDate>
+      
+      <guid>https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/</guid>
+      <description>交易系统  主要做多，交易系统包括心法和操作两大部分:
+ 心法 ：有限标的，耐心等待、决心杀入、狠心止损、平常心抱持。 操作 ：心态、心情好的情况下  入场：大周期关键边缘，等待小周期破底翻或撑压互换。 出场：1）守纪律；2）打破有意义的边缘，即刻规避风险。     交易系统的核心是支撑压力位构成的水平线，连续的高点或低点构成的斜切线（也叫趋势线）；通过这样的线勾勒出可交易的价格区间和K线形态，识别大趋势（底部反转还是多头格局）；等价格到了区间轨道线附近，有止跌迹象，即可密切跟踪观察，制定交易计划。通常我们需要把周期拉到6个月到一年，来确定大趋势，3个月左右来观察短期惯性。 破底翻/假突破、撑压互换、翻亚当、惯性改变是交易过程极为有用的四个概念。突破水平线/斜切线，我们认为惯性可能有所改变；突破位形成了中长K线，我们就可以翻亚当，看看价格可能会走到哪里（亚当满足区）；等到价格在下杀的亚当满足区，我们观察是否有水平支撑位，在这个位置价格轨迹是否形成了破底翻或撑压互换（各周期都可观察）；此时你就可以想一下：这次我愿意花多少钱买个机会？入场即设置好止损；钱花掉了，机会没来，断然离去。按幽灵的说法，即刻清除不正确的仓位，只持有正确的仓位。
 一、心法 1. 耐心等待  为什么需要耐心等待？底部吸筹需要时间，也有可能继续下行，你确定你要潜伏 ？！；顶部出货也需要时间，你不可能把自己放在高位风险之中，所以高位只能等待；中继盘整通常不好介入，会把你整得死去活来。一只标的，回头看，一年当中2次左右好的机会。
 必须是有限标的，通常不超过3只，否则，容易错过短暂有限的最佳入场机会。如果是长期看好趋势，那就是另外一回事了。
 短线容易死去活来，长线可能容易天荒地老，波段或许是最优选择。也许每个“波谷”你都可以试试，但切记优先设置止损，要有韧性，从头再来。要等到好的波谷也不容易，你需要对波浪理论有所了解。
  什么是好的波谷？即我们要等到什么时候。通常是大周期有意义的关键水平位，破了就可以翻亚当，破位又拉回有机会形成破底翻。
-三波下杀之后，俗称三推 多头回档，通常2次调整，俗称ABC修正 通道测试起涨点 形成双底或多重底 日线偏离 MA20 20%左右 多头回踩 MA20/60 有支撑 急速运动导致能量耗尽；急速、通道、急速 2. 决心杀入  3. 狠心止损  4. 平常心抱持  二、操作 1. 破位 2. 守纪律 打赏 微信 支付宝</description></item></channel></rss>
+ 三波下杀之后，俗称三推 多头回档，通常2次调整，俗称ABC修正 通道测试起涨点 形成双底或多重底 日线偏离 MA20 20%左右 多头回踩 MA20/60 有支撑 急速运动导致能量耗尽；急速、通道、急速  2. 决心杀入  3. 狠心止损  4. 平常心抱持  二、操作 1. 破位 2. 守纪律 打赏    微信 支付宝          </description>
+    </item>
+    
+  </channel>
+</rss>
