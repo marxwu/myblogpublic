@@ -7,9 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>2022 marx wu</copyright>
-    <lastBuildDate>Tue, 06 Dec 2022 21:47:46 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 11:52:17 +0800</lastBuildDate>
     
         <atom:link href="https://marxwu.github.io/myblogpublic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Hugo短代码</title>
+        <link>https://marxwu.github.io/myblogpublic/posts/hugo%E7%9F%AD%E4%BB%A3%E7%A0%81/</link>
+        <pubDate>Wed, 07 Dec 2022 11:52:17 +0800</pubDate>
+        
+        <guid>https://marxwu.github.io/myblogpublic/posts/hugo%E7%9F%AD%E4%BB%A3%E7%A0%81/</guid>
+        <description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/hugo%E7%9F%AD%E4%BB%A3%E7%A0%81/ -&lt;p&gt;第一种写法：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hello color=&amp;quot;red&amp;quot;
+
+&amp;lt;p&amp;gt;
+    &amp;lt;h1 style=&amp;quot;color: {{ .Get `color` }} &amp;quot;&amp;gt;
+        Hello World! 
+    &amp;lt;/h1&amp;gt;
+&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;第二种写法：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hello red
+
+&amp;lt;p&amp;gt;
+    &amp;lt;h1 style=&amp;quot;color: {{ .Get 0 }} &amp;quot;&amp;gt;
+        Hello World! 
+    &amp;lt;/h1&amp;gt;
+&amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;- https://marxwu.github.io/myblogpublic/posts/hugo%E7%9F%AD%E4%BB%A3%E7%A0%81/ - 2022 marx wu</description>
+        </item>
     
     
     
@@ -30,10 +57,16 @@
 &lt;p&gt;真好笑  😂&lt;/p&gt;
 &lt;p&gt;哪里好笑了 
 &lt;p&gt;
-    &lt;h1&gt;
+    &lt;h1 style=&#34;color: pink &#34;&gt;
         Hello World! 
     &lt;/h1&gt;
 &lt;/p&gt;&lt;/p&gt;
+
+&lt;p style=&#34;background-color:yellow;&#34;&gt;
+    
+**what are you doing ?**
+
+&lt;/p&gt;
 - https://marxwu.github.io/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/ - 2022 marx wu</description>
         </item>
     
@@ -131,10 +164,10 @@ git设置代理：
 git config --global http.proxy http://192.168.1.101:8888
 &lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;deploy-blog-on-github&#34;&gt;deploy blog on github&lt;/h1&gt;
 &lt;p&gt;这个仓库用于blog的源代码：&lt;br&gt;
-&lt;a href=&#34;https://github.com/yourname/myblog.git&#34;&gt;https://github.com/yourname/myblog.git&lt;/a&gt;
+&lt;a href=&#34;https://github.com/yourname/myblog.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/yourname/myblog.git&lt;/a&gt;
 &lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:yourname/myblog.git&lt;/p&gt;
 &lt;p&gt;这个仓库用来发布blog，即hugo生成的public目录的站点内容：&lt;br&gt;
-&lt;a href=&#34;https://github.com/yourname/myblogpublic.git&#34;&gt;https://github.com/yourname/myblogpublic.git&lt;/a&gt;
+&lt;a href=&#34;https://github.com/yourname/myblogpublic.git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/yourname/myblogpublic.git&lt;/a&gt;
 &lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:yourname/myblogpublic.git&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;myblog % git remote -v
 myblog % git remote add origin https://github.com/marxwu/myblog.git
