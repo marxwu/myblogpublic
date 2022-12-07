@@ -1,207 +1,516 @@
-<!doctype html><html><head>
+<!DOCTYPE html>
+<html><head>
 <title>Hugo创建博客</title>
-<meta charset=utf-8>
-<meta name=X-UA-Compatible content="IE=edge">
-<meta name=google-site-verification content>
-<meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" name=viewport>
-<meta content="telephone=no" name=format-detection>
-<meta name=description content>
-<meta name=renderer content="webkit">
-<meta name=theme-color content="#ffffff">
-<meta property="og:title" content="Hugo创建博客">
-<meta property="og:description" content="mac下实践 hugo create blog 安装hugo myblogprj % brew install hugo myblogprj % hugo version myblogprj % brew reinstall hugo 建立博客根目录myblog，添加theme，运行起来 myblogprj % hugo new site myblog myblogprj % cd myblog myblog % mkdir themes myblog">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/"><meta property="article:section" content="posts">
-<meta property="article:published_time" content="2022-12-05T23:34:11+08:00">
-<meta property="article:modified_time" content="2022-12-05T23:34:11+08:00"><meta property="og:site_name" content="My Blog">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Hugo创建博客">
-<meta name=twitter:description content="mac下实践 hugo create blog 安装hugo myblogprj % brew install hugo myblogprj % hugo version myblogprj % brew reinstall hugo 建立博客根目录myblog，添加theme，运行起来 myblogprj % hugo new site myblog myblogprj % cd myblog myblog % mkdir themes myblog">
-<script src=/myblogpublic/js/toc.js></script>
-<link type=text/css rel=stylesheet href=/myblogpublic/vendor/css/bootstrap.min.css>
-<link rel=stylesheet href=/myblogpublic/scss/journal.min.c5d92f380bf10f6849c7ac487c7df2b22c081e0851e5339224f1ae29210b20d2.css integrity="sha256-xdkvOAvxD2hJx6xIfH3ysiwIHghR5TOSJPGuKSELINI=" media=screen>
-<link rel=stylesheet href=/myblogpublic/scss/dark-mode.min.9f8d8c2df9285089d141edd4a50cb7506c7948e6ab79a29968dced1bd0ab7d22.css integrity="sha256-n42MLfkoUInRQe3UpQy3UGx5SOareaKZaNztG9CrfSI=" media=screen>
-<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+<meta property="og:title" content="Hugo创建博客" />
+<meta property="og:description" content="mac下实践 hugo create blog 安装hugo myblogprj % brew install hugo myblogprj % hugo version myblogprj % brew reinstall hugo 建立博客根目录myblog，添加theme，运行起来 myblogprj % hugo new site myblog myblogprj % cd myblog myblog % mkdir themes myblog" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://marxwu.github.io/myblogpublic/posts/hugo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-12-05T23:34:11+08:00" />
+<meta property="article:modified_time" content="2022-12-05T23:34:11+08:00" /><meta property="og:site_name" content="My Blog" />
+
+
+
+
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo创建博客"/>
+<meta name="twitter:description" content="mac下实践 hugo create blog 安装hugo myblogprj % brew install hugo myblogprj % hugo version myblogprj % brew reinstall hugo 建立博客根目录myblog，添加theme，运行起来 myblogprj % hugo new site myblog myblogprj % cd myblog myblog % mkdir themes myblog"/>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+      <script src="/myblogpublic/js/toc.js"></script>
+    
+    <link type="text/css" rel="stylesheet" href="/myblogpublic/vendor/css/bootstrap.min.css">
+<link rel="stylesheet" href="/myblogpublic/scss/journal.min.c5d92f380bf10f6849c7ac487c7df2b22c081e0851e5339224f1ae29210b20d2.css" integrity="sha256-xdkvOAvxD2hJx6xIfH3ysiwIHghR5TOSJPGuKSELINI=" media="screen">
+
+
+
+<link rel="stylesheet" href="/myblogpublic/scss/dark-mode.min.9f8d8c2df9285089d141edd4a50cb7506c7948e6ab79a29968dced1bd0ab7d22.css" integrity="sha256-n42MLfkoUInRQe3UpQy3UGx5SOareaKZaNztG9CrfSI=" media="screen">
+
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script>console.log("Hello from 'layouts/partials/extended_head.html'")</script>
+
 </head>
 <body>
-<div id=app><div id=sideContainer class=side-container>
-<a class="a-block nav-head false" href=https://marxwu.github.io/myblogpublic>
-<div class=nav-title>
-宇宙的空虚
-</div>
-<div class=nav-subtitle>
-Marx Wu's Blog
-</div>
-</a>
-<div class=nav-link-list>
-<a class="a-block nav-link-item active" href=/myblogpublic/posts>
-归档
-</a>
-<a class="a-block nav-link-item false" href=/myblogpublic/categories>
-分类
-</a>
-<a class="a-block nav-link-item false" href=/myblogpublic/tags>
-标签
-</a>
-<a class="a-block nav-link-item false" href=/myblogpublic/index.xml>
-RSS Feed
-</a>
-</div>
-<div class=nav-footer>
+    	<div id="app"><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://marxwu.github.io/myblogpublic">
+    
+        <div class="nav-title">
+            宇宙的空虚
+        </div>
+        
+        <div class="nav-subtitle">
+            Marx Wu&#39;s Blog
+        </div>
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/myblogpublic/posts">
+                归档
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/myblogpublic/categories">
+                分类
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/myblogpublic/tags">
+                标签
+            </a>
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/myblogpublic/index.xml">
+                RSS Feed
+            </a>
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
+        
+
 &copy;
-2022 marx wu
+	
+	2022 marx wu
+	
+
+
+    </div>
+    
+</div><div id="extraContainer" class="extra-container">
+    
+    
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- 目录 -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#hugo-create-blog" onclick="onNavClick(`#hugo-create-blog-nav`)" id="hugo-create-blog-nav">
+									hugo create blog
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#git-and-github" onclick="onNavClick(`#git-and-github-nav`)" id="git-and-github-nav">
+									git and github
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#deploy-blog-on-github" onclick="onNavClick(`#deploy-blog-on-github-nav`)" id="deploy-blog-on-github-nav">
+									deploy blog on github
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#references" onclick="onNavClick(`#references-nav`)" id="references-nav">
+									references
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
 </div>
-</div><div id=extraContainer class=extra-container>
-<div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
-<div class=toc-content>
-<center>- 目录 -</center>
-<ul>
-<li>
-<a href=#hugo-create-blog onclick="onNavClick(`#hugo-create-blog-nav`)" id=hugo-create-blog-nav>
-hugo create blog
-</a>
-</li>
-<li>
-<a href=#git-and-github onclick="onNavClick(`#git-and-github-nav`)" id=git-and-github-nav>
-git and github
-</a>
-</li>
-<li>
-<a href=#deploy-blog-on-github onclick="onNavClick(`#deploy-blog-on-github-nav`)" id=deploy-blog-on-github-nav>
-deploy blog on github
-</a>
-</li>
-<li>
-<a href=#references onclick="onNavClick(`#references-nav`)" id=references-nav>
-references
-</a>
-</li>
-</ul>
+    
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
+                keyboard_arrow_up
+            </i>
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+                dark_mode
+            </span>
+        </a>
+        
+        
+    </div>
 </div>
+<div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/myblogpublic/posts">
+                    归档
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/myblogpublic/categories">
+                    分类
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/myblogpublic/tags">
+                    标签
+                </a>
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/myblogpublic/index.xml">
+                    RSS Feed
+                </a>
+                
+            
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- 目录 -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#hugo-create-blog" onclick="onNavClick(`#hugo-create-blog-nav`)" id="hugo-create-blog-nav">
+									hugo create blog
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#git-and-github" onclick="onNavClick(`#git-and-github-nav`)" id="git-and-github-nav">
+									git and github
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#deploy-blog-on-github" onclick="onNavClick(`#deploy-blog-on-github-nav`)" id="deploy-blog-on-github-nav">
+									deploy blog on github
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#references" onclick="onNavClick(`#references-nav`)" id="references-nav">
+									references
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
 </div>
-<div class=pagination>
-<a id=globalBackToTop class="pagination-action animated-visibility" href=#top :class="{ invisible: scrollY == 0 }">
-<i class="material-icons pagination-action-icon">
-keyboard_arrow_up
-</i>
-</a>
-<a type=button class=pagination-action id=darkModeToggleButton>
-<span class="material-icons pagination-action-icon" id=darkModeToggleIcon>
-dark_mode
-</span>
-</a>
+            
+        </div>
+    </div>
 </div>
-</div>
-<div class=single-column-drawer-container id=drawer v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
-<div class=drawer-content>
-<div class=drawer-menu>
-<a class="a-block drawer-menu-item active" href=/myblogpublic/posts>
-归档
-</a>
-<a class="a-block drawer-menu-item false" href=/myblogpublic/categories>
-分类
-</a>
-<a class="a-block drawer-menu-item false" href=/myblogpublic/tags>
-标签
-</a>
-<a class="a-block drawer-menu-item false" href=/myblogpublic/index.xml>
-RSS Feed
-</a>
-<div class=toc>
-<div class=toc-content>
-<center>- 目录 -</center>
-<ul>
-<li>
-<a href=#hugo-create-blog onclick="onNavClick(`#hugo-create-blog-nav`)" id=hugo-create-blog-nav>
-hugo create blog
-</a>
-</li>
-<li>
-<a href=#git-and-github onclick="onNavClick(`#git-and-github-nav`)" id=git-and-github-nav>
-git and github
-</a>
-</li>
-<li>
-<a href=#deploy-blog-on-github onclick="onNavClick(`#deploy-blog-on-github-nav`)" id=deploy-blog-on-github-nav>
-deploy blog on github
-</a>
-</li>
-<li>
-<a href=#references onclick="onNavClick(`#references-nav`)" id=references-nav>
-references
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<transition name=fade>
-<div id=drawer-mask v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if=isDrawerOpen v-on:click=toggleDrawer></div>
+<transition name="fade">
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
 </transition>
-<nav id=navBar class="navbar sticky-top navbar-light single-column-nav-container">
-<div id=navBackground class=nav-background></div>
-<div class="container container-narrow nav-content">
-<button id=nav_dropdown_btn class=nav-dropdown-toggle type=button v-on:click=toggleDrawer>
-<i class=material-icons>
-menu
-</i>
-</button>
-<a id=navTitle class=navbar-brand href=https://marxwu.github.io/myblogpublic>
-宇宙的空虚
-</a>
-<button type=button class=nav-darkmode-toggle id=darkModeToggleButton2>
-<i class=material-icons id=darkModeToggleIcon2>
-dark_mode
-</i>
-</button>
-</div>
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
+                menu
+            </i>
+        </button>
+        <a id="navTitle" class="navbar-brand" href="https://marxwu.github.io/myblogpublic">
+            宇宙的空虚
+        </a>
+        
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
+                dark_mode
+            </i>
+        </button>
+        
+    </div>
 </nav>
-<div class=single-column-header-container id=pageHead v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
-<a href=https://marxwu.github.io/myblogpublic>
-<div class=single-column-header-title>宇宙的空虚</div>
-<div class=single-column-header-subtitle>Marx Wu's Blog</div>
-</a>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://marxwu.github.io/myblogpublic">
+        <div class="single-column-header-title">宇宙的空虚</div>
+        
+        <div class="single-column-header-subtitle">Marx Wu&#39;s Blog</div>
+        
+
+    </a>
 </div>
-<div id=content>
-<div id=streamContainer class=stream-container>
-<div class="post-list-container post-list-container-shadow">
-<div class=post>
-<div class=post-head-wrapper style=background-image:url(https://marxwu.github.io/myblogpublic/images/hugo-github.png)>
-<div class=post-title>
-Hugo创建博客
-<div class=post-meta>
-<time itemprop=datePublished>
-2022-12-05 23:34
-</time>
-<i class=material-icons>folder</i>
-<a href=/myblogpublic/categories/hugo>hugo</a>
-&nbsp;
-<i class=material-icons>label</i>
-<a href=/myblogpublic/tags/hugo>hugo</a>
-&nbsp;
-<a href=/myblogpublic/tags/github>github</a>
-&nbsp;
-<a href=/myblogpublic/tags/markdown>markdown</a>
-&nbsp;
-<a href=/myblogpublic/tags/git>git</a>
-&nbsp;
-</div>
-</div>
-</div>
-<div class=post-body-wrapper>
-<div class=post-body v-pre>
-<p>mac下实践</p>
-<h1 id=hugo-create-blog>hugo create blog</h1>
+
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+                
+            
+
+            <div class="post-head-wrapper"
+                
+                    
+                    
+                    style="background-image: url('https://marxwu.github.io/myblogpublic/images/hugo-github.png')"
+                    
+                
+            >
+                <div class="post-title">
+                    Hugo创建博客
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
+                            2022-12-05 23:34
+                        </time>
+                        
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/myblogpublic/categories/hugo">hugo</a>
+                                &nbsp;
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+                            
+                                <a href="/myblogpublic/tags/hugo">hugo</a>
+                                &nbsp;
+                            
+                                <a href="/myblogpublic/tags/github">github</a>
+                                &nbsp;
+                            
+                                <a href="/myblogpublic/tags/markdown">markdown</a>
+                                &nbsp;
+                            
+                                <a href="/myblogpublic/tags/git">git</a>
+                                &nbsp;
+                            
+                        
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <p>mac下实践</p>
+<h1 id="hugo-create-blog">hugo create blog</h1>
 <ol>
 <li>安装hugo</li>
 </ol>
-<pre><code class=language-hugo data-lang=hugo>myblogprj % brew install hugo
+<pre><code class="language-hugo" data-lang="hugo">myblogprj % brew install hugo
 myblogprj % hugo version
 myblogprj % brew reinstall hugo
-</code></pre><ol start=2>
+</code></pre><ol start="2">
 <li>建立博客根目录myblog，添加theme，运行起来</li>
 </ol>
 <pre><code>myblogprj % hugo new site myblog
@@ -215,7 +524,7 @@ myblog % cp themes/diary/exampleSite/config.toml ./
 
 myblog % hugo server
 </code></pre><p>  访问http://localhost:1313/</p>
-<ol start=3>
+<ol start="3">
 <li>建立第一个博客，然后用vscode编辑内容</li>
 </ol>
 <pre><code>myblog % hugo new posts/数学高一知识点.md
@@ -237,7 +546,7 @@ categories: &quot;高中数学&quot;
 ## 幂函数
 ## 指数函数
 
-</code></pre><h1 id=git-and-github>git and github</h1>
+</code></pre><h1 id="git-and-github">git and github</h1>
 <ol>
 <li>设置github可以用ssh方式连接</li>
 </ol>
@@ -277,13 +586,13 @@ export https_proxy=http://192.168.1.101:8888
 
 git设置代理：
 git config --global http.proxy http://192.168.1.101:8888
-</code></pre><h1 id=deploy-blog-on-github>deploy blog on github</h1>
+</code></pre><h1 id="deploy-blog-on-github">deploy blog on github</h1>
 <p>这个仓库用于blog的源代码：<br>
-<a href=https://github.com/yourname/myblog.git target=_blank rel=noopener>https://github.com/yourname/myblog.git</a>
-<a href=mailto:git@github.com>git@github.com</a>:yourname/myblog.git</p>
+<a href="https://github.com/yourname/myblog.git" target="_blank" rel="noopener">https://github.com/yourname/myblog.git</a>
+<a href="mailto:git@github.com">git@github.com</a>:yourname/myblog.git</p>
 <p>这个仓库用来发布blog，即hugo生成的public目录的站点内容：<br>
-<a href=https://github.com/yourname/myblogpublic.git target=_blank rel=noopener>https://github.com/yourname/myblogpublic.git</a>
-<a href=mailto:git@github.com>git@github.com</a>:yourname/myblogpublic.git</p>
+<a href="https://github.com/yourname/myblogpublic.git" target="_blank" rel="noopener">https://github.com/yourname/myblogpublic.git</a>
+<a href="mailto:git@github.com">git@github.com</a>:yourname/myblogpublic.git</p>
 <pre><code>myblog % git remote -v
 myblog % git remote add origin https://github.com/marxwu/myblog.git
 
@@ -305,7 +614,7 @@ public % git add .
 public % git commit -m 'pubic first version'
 
 myblog % git push -u origin master
-</code></pre><p>最后在myblogpublic仓的Settings->Pages中
+</code></pre><p>最后在myblogpublic仓的Settings-&gt;Pages中
 设置https://yourname.github.io/myblogpublic/仓，发布站点。</p>
 <p>注意config.toml中编辑：</p>
 <pre><code>baseURL = &quot;https://yourname.github.io/myblogpublic&quot;
@@ -315,28 +624,57 @@ title = &quot;千山暮雪&quot;
 copyright = &quot;202X yourname&quot;
 theme = &quot;diary&quot;
 </code></pre><p>你就可以访问博客了：https://yourname.github.io/myblogpublic</p>
-<h1 id=references>references</h1>
-<hr width=100% id=EOF>
-<p style=color:#777>最后修改于 2022-12-05</p>
-</div>
-</div>
-<nav class=post-pagination>
-<a class=newer-posts href=/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/>
-下回<br>数学高一知识点
-</a>
-<a class=older-posts href=/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/>
-上回<br>我的交易系统
-</a>
-</nav>
-<div class=post-comment-wrapper>
-</div>
-</div>
-</div>
-</div>
-</div><div id=single-column-footer>
+<h1 id="references">references</h1>
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">最后修改于 2022-12-05</p>
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="/myblogpublic/posts/%E6%95%B0%E5%AD%A6%E9%AB%98%E4%B8%80%E7%9F%A5%E8%AF%86%E7%82%B9/">
+			下回<br>数学高一知识点
+                </a>
+                
+                
+                
+                <a class="older-posts" href="/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/">
+			上回<br>我的交易系统
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+            </div><div id="single-column-footer">
+
 &copy;
-2022 marx wu
+	
+	2022 marx wu
+	
+
 </div>
-</div>
-<script src=/myblogpublic/js/journal.js></script></body>
+            </div>
+    
+    <script src="/myblogpublic/js/journal.js"></script></body>
 </html>
