@@ -325,7 +325,7 @@ theme = &amp;quot;diary&amp;quot;
 &lt;p&gt;  大A炒板块、热点、题材、概念、政策，选择龙头。叙事经济学（政治、区域、行业、资本）。新技术、重大事件（奥运、世界杯、新冠、地震、瘟疫、战争）、商品周期、行业周期、资产重组、业绩。人气龙头不倒，找板块里的个股做，龙头倒了，咱也跑。&lt;/p&gt;
 &lt;h3 id=&#34;2-画线识别趋势惯性交易区间&#34;&gt;2. 画线，识别趋势、惯性、交易区间&lt;/h3&gt;
 &lt;p&gt;  使用一年左右的周期画出趋势线；画出最近的支撑线和斜切线，看看惯性是否改变，寻找可能的交易区间。&lt;br&gt;
-  画出明显的前高前低，画出带大量的K线的支撑和压力，标出急缩量的K（通常还会有低点），过其高点大概率止跌企稳。大量K和急缩量K通常是交易区间内的路标。&lt;br&gt;
+  画出明显的前高前低，画出带大量的K线的支撑和压力，标出急缩量的K（通常还会有低点），过其高点大概率止跌企稳。大量K和急缩量K（窒息量、凹洞量）通常是交易区间内的路标。&lt;br&gt;
   突破关键边缘的K线可以翻亚当，预测距离。我们可以在亚当满足区有支撑的时候埋伏。如果没有按亚当剧本走，我们可以警觉，密切观察几天。&lt;br&gt;
   形态的涨跌幅满足区也是我们应该密切观察的区域，一旦回撤到位，我们可以立即介入。&lt;/p&gt;
 &lt;h3 id=&#34;3-等待破底翻撑压互换25根下影线&#34;&gt;3. 等待破底翻、撑压互换、2～5根下影线&lt;/h3&gt;
@@ -334,7 +334,8 @@ theme = &amp;quot;diary&amp;quot;
 &lt;li&gt;顺大、逆小：左右高点应该平齐，不能相差太多&lt;/li&gt;
 &lt;li&gt;回测关键边缘后有红K打勾：勾不能太高&lt;/li&gt;
 &lt;li&gt;打勾之后有黑K下杀，下杀收盘价不能突破关键边缘&lt;/li&gt;
-&lt;li&gt;切换到5/15分K盯盘，等待惯性改变，出现破底翻、撑压互换或下影线墙&lt;/li&gt;
+&lt;li&gt;切换到5/15分K盯盘，等待惯性改变，出现&lt;strong&gt;破底翻&lt;/strong&gt;、&lt;strong&gt;撑压互换&lt;/strong&gt;或&lt;strong&gt;下影线墙&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;小周期走出了空转多的小多头趋势&lt;/strong&gt;，均线多排。多头确认时入场&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;  以上几个&lt;strong&gt;步骤一个都不能少&lt;/strong&gt;，否则容易失误陷进去。&lt;/p&gt;
 &lt;h2 id=&#34;五实例分析&#34;&gt;五、实例分析&lt;/h2&gt;
@@ -347,7 +348,10 @@ theme = &amp;quot;diary&amp;quot;
 &lt;p&gt;&lt;img src=&#34;../../images/%E6%B5%B7%E5%B0%94%E6%99%BA%E5%AE%B6.png&#34; alt=&#34;&#34; title=&#34;海尔智家&#34;&gt;
 &lt;img src=&#34;../../images/%E6%B5%B7%E5%B0%94%E6%99%BA%E5%AE%B6%E7%BF%BB%E4%BA%9A%E5%BD%931208.png&#34; alt=&#34;&#34; title=&#34;海尔智家翻亚当&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../../images/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E9%93%81%E7%A0%B4%E5%BA%95%E7%BF%BB.png&#34; alt=&#34;&#34; title=&#34;中国中铁破底翻&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../images/%E4%B9%9D%E5%AE%89%E5%8C%BB%E7%96%971211.png&#34; alt=&#34;&#34; title=&#34;九安医疗 连三红&#34;&gt;&lt;/p&gt;
+&lt;p&gt;连三红，强势股，后续还有拉升：
+&lt;img src=&#34;../../images/%E4%B9%9D%E5%AE%89%E5%8C%BB%E7%96%971211.png&#34; alt=&#34;&#34; title=&#34;九安医疗 连三红&#34;&gt;&lt;/p&gt;
+&lt;p&gt;多空转换识别：
+&lt;img src=&#34;../../images/%E4%BC%97%E6%B3%B0%E6%B1%BD%E8%BD%A61211.png&#34; alt=&#34;&#34; title=&#34;众泰汽车 多空转换&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;打赏&#34;&gt;打赏&lt;/h1&gt;
 &lt;!-- 
 ![wechat QRCode](../../images/WechatFee.png &#34;微信收款码&#34;)
