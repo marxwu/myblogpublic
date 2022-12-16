@@ -66,6 +66,11 @@
 &lt;li&gt;短线 5-8%，  MA5&lt;/li&gt;
 &lt;li&gt;中线 20-30%，MA20&lt;/li&gt;
 &lt;li&gt;长线 40-80%，MA60&lt;/li&gt;
+&lt;li&gt;短线遇压下跌 停利&lt;/li&gt;
+&lt;li&gt;到目标价 停利&lt;/li&gt;
+&lt;li&gt;按纪律 停利&lt;/li&gt;
+&lt;li&gt;超涨有超额获利，爆量黑K 停利&lt;/li&gt;
+&lt;li&gt;长线趋势改变 停利&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;压力&#34;&gt;压力&lt;/h1&gt;
 &lt;ul&gt;
