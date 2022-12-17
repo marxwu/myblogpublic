@@ -19,7 +19,9 @@
         <pubDate>Mon, 12 Dec 2022 21:33:52 +0800</pubDate>
         
         <guid>https://marxwu.github.io/myblogpublic/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93/</guid>
-        <description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93/ -&lt;h1 id=&#34;不入场&#34;&gt;不入场&lt;/h1&gt;
+        <description>宇宙的空虚 https://marxwu.github.io/myblogpublic/posts/%E7%AE%80%E5%8D%95%E4%BA%A4%E6%98%93/ -&lt;h1 id=&#34;策略&#34;&gt;策略&lt;/h1&gt;
+&lt;p&gt;  长期反转，短期惯性（明显的阶段和高低点）&lt;/p&gt;
+&lt;h1 id=&#34;不入场&#34;&gt;不入场&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;交易区间中轨，绝对不入场&lt;/li&gt;
 &lt;li&gt;不到有意义的关键干净边缘，绝对不入场&lt;/li&gt;
@@ -72,13 +74,19 @@
 &lt;li&gt;超涨有超额获利，爆量黑K 停利&lt;/li&gt;
 &lt;li&gt;长线趋势改变 停利&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;压力&#34;&gt;压力&lt;/h1&gt;
+&lt;h1 id=&#34;压力供需区&#34;&gt;压力(供需区)&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;前高、前低&lt;/li&gt;
 &lt;li&gt;交易密集区&lt;/li&gt;
 &lt;li&gt;大量K的高低点&lt;/li&gt;
 &lt;li&gt;MA20/60下弯，即哭脸 ：(&lt;/li&gt;
 &lt;li&gt;斜切线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;趋势判断&#34;&gt;趋势判断&lt;/h1&gt;
+&lt;p&gt;  &lt;strong&gt;头头高底底高，头头低底底低&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;先 底底高(破底翻入场)，再 头头高，多头确认，等回踩支撑入场&lt;/li&gt;
+&lt;li&gt;先头头高，再 底底高，多头确认，立即入场；后续回踩支撑入场&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;选股&#34;&gt;选股&lt;/h1&gt;
 &lt;ul&gt;
@@ -102,8 +110,10 @@
 &lt;pre&gt;&lt;code&gt;ctrl + ~                # 终端显示和隐藏
 shift + alt + up/down   # 复制当前行
 Alt+ ↑ / ↓              # Move line up/down
-shift + ctrl + k        # 删除当前行
+shift + command + k        # 删除当前行
 alt + shit + mouse      # 块选择
+command + enter         # 下面插入新行
+command + shift + enter # 上面插入新行
 &lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;ctrl + shift + f        # 全局查找
 &lt;/code&gt;&lt;/pre&gt;- https://marxwu.github.io/myblogpublic/posts/vscode%E5%BF%AB%E6%8D%B7%E9%94%AE/ - 2022 marx wu</description>
         </item>
