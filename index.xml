@@ -451,25 +451,6 @@ theme = &amp;quot;diary&amp;quot;
 &lt;p&gt;失败的案例：
 &lt;img src=&#34;../../images/%E7%A2%A7%E6%B0%B4%E6%BA%901215A.png&#34; alt=&#34;&#34; title=&#34;&#34;&gt;
 &lt;img src=&#34;../../images/%E7%A2%A7%E6%B0%B4%E6%BA%901215.png&#34; alt=&#34;&#34; title=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;打赏&#34;&gt;打赏&lt;/h1&gt;
-&lt;!-- 
-![wechat QRCode](../../images/WechatFee.png &#34;微信收款码&#34;)
-![Alipay QRCode](../../images/AliPayFee.png &#34;支付宝收款码&#34;)
---&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;微信&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;支付宝&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;../../images/WechatFee.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;../../images/AliPayFee.png&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 - https://marxwu.github.io/myblogpublic/posts/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F/ - 2022 marx wu</description>
         </item>
     
